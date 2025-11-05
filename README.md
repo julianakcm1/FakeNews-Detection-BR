@@ -1,4 +1,4 @@
-# FakeNews-Detection-BR
+# Implementação dos Experimentos para Detecção de Fake News em Português
 
 Repositório contendo os códigos utilizados na monografia ****, apresentada no Instituto de Computação da Universidade Federal de Alagoas (UFAL).
 
